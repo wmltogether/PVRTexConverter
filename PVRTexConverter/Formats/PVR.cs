@@ -204,7 +204,7 @@ namespace PVRTexConverter.Formats
             ETC2_RGB_A1 = 24,
             EAC_R11 = 25,
             EAC_RG11 = 26,
-            RGB565 = 0x0005060561626772,
+            RGB565 = 0x0005060500626772,
             RGBA4444 = 0x0404040461626772,
             RGBA8888 = 0x0808080861626772,
         }
